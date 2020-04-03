@@ -1,5 +1,5 @@
 # kmeans-clustering-student-performance
-K-Means Clustering Student Performance Using R
+Kmeans Clustering Student Performance (R)
 
 # Requirement
 - Programming Language : R
